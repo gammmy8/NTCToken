@@ -15,9 +15,6 @@ Like other smart contracts on the blockchain. NTC Token will be ran at Remix or 
          
 And to be followed by the token's characters together with its functions:
 
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.19;
-
 contract NTCToken {
     
     string public TokenName = "NTC Token";
