@@ -40,7 +40,7 @@ contract NTCToken {
     }
 ## Help
 
-If issues occur, please execute diagnostics and check the past lessons from the module regarding the issue. For further, assistance kindly reach out to the author.
+If issues occur, please execute diagnostics and check the past lessons from the module regarding the issue. For further assistance, kindly reach out to the author.
 
 
 
