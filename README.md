@@ -15,7 +15,7 @@ Like other smart contracts on the blockchain. NTC Token will be ran at Remix or 
          
 And to be followed by the token's characters together with its functions:
 
-contract NTCToken {
+    contract NTCToken {
     
     string public TokenName = "NTC Token";
     string public TokenSymbol = "NTC";
